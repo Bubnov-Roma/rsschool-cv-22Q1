@@ -20,32 +20,6 @@ Hi! My name is Roma Bubnov and i am junior frontend developer from Russia. I lik
 ### Code examples:
 
 ```
-<header>
-    <div class="wrapper">
-      <h1 class="tag">webdev</h1>
-      <div class="wrapper">
-          <nav class="header__nav">
-            <ul class="header__list">
-              <li class="header__link">
-                <a href="#!" class="about">About</a>
-              </li>
-              <li class="header__link">
-                <a href="#!" class="syllabus">Syllabus</a>
-              </li>
-              <li class="header__link">
-                <a href="#!" class="projects">Projects</a>
-              </li>
-              <li class="header__link">
-                <a href="#!" class="faq">FAQ</a>
-              </li>
-              </ul>
-              <div class="underline"></div>
-          </nav>
-      </div>
-    </header>
-  ```
-  
-  ```
  function removeKFromList( l, k ){
     for (let i = 0; i < l.length; i++) {
       if(l[i] === k) {
