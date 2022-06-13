@@ -32,8 +32,8 @@ Hi! My name is Roma Bubnov and i am junior frontend developer from Russia. I lik
 
 ### Education
 
-* RS School : 2019 - 2020
-* JavaRush : 2020 - present
+* JavaRush : 2019 - 2020
+* RS School : 2020 - present
 
 ### Projects
 
